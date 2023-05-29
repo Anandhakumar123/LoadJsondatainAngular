@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  color: chocolate;
+}
+table {
+  width: 60%;
+  margin: 0 auto;
+}
+tr {
+  border-bottom: 5px solid black;
+}
+h2 {
+  padding-bottom: 5px;
+  margin: 0;
+  font-family: sans-serif;
+}
+#description {
+  margin: 0;
+  padding-bottom: 5px;
+  font-size: 20px;
+  font-style: italic;
+}
+#price {
+  margin: 0;
+  padding-bottom: 5px;
+  color: rgb(141, 40, 40);
+  font-size: 25px;
+  font-family: sans-serif;
+}
